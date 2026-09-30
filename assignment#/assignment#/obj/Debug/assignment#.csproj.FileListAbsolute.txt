@@ -8,3 +8,4 @@ C:\Users\Ahmed\Desktop\assignment3\assignment#\assignment#\bin\Debug\assignment#
 C:\Users\Ahmed\Desktop\assignment3\assignment#\assignment#\obj\Debug\assignment#.exe
 C:\Users\Ahmed\Desktop\assignment3\assignment#\assignment#\obj\Debug\assignment#.pdb
 C:\Users\Ahmed\Desktop\assignment3\assignment#\assignment#\obj\Debug\assignment#.exe.config
+C:\Users\Ahmed\Desktop\assignment3\assignment#\assignment#\obj\Debug\assignment_.Form1.resources
