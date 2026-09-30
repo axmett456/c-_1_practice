@@ -1,0 +1,11 @@
+C:\Users\Ahmed\Desktop\c#_1_practic\hotel_room\hotel_room\bin\Debug\hotel_room.exe.config
+C:\Users\Ahmed\Desktop\c#_1_practic\hotel_room\hotel_room\bin\Debug\hotel_room.exe
+C:\Users\Ahmed\Desktop\c#_1_practic\hotel_room\hotel_room\bin\Debug\hotel_room.pdb
+C:\Users\Ahmed\Desktop\c#_1_practic\hotel_room\hotel_room\obj\Debug\hotel_room.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Desktop\c#_1_practic\hotel_room\hotel_room\obj\Debug\hotel_room.Form1.resources
+C:\Users\Ahmed\Desktop\c#_1_practic\hotel_room\hotel_room\obj\Debug\hotel_room.Properties.Resources.resources
+C:\Users\Ahmed\Desktop\c#_1_practic\hotel_room\hotel_room\obj\Debug\hotel_room.csproj.GenerateResource.cache
+C:\Users\Ahmed\Desktop\c#_1_practic\hotel_room\hotel_room\obj\Debug\hotel_room.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\c#_1_practic\hotel_room\hotel_room\obj\Debug\hotel_room.exe
+C:\Users\Ahmed\Desktop\c#_1_practic\hotel_room\hotel_room\obj\Debug\hotel_room.pdb
+C:\Users\Ahmed\Desktop\c#_1_practic\hotel_room\hotel_room\obj\Debug\hotel_room.exe.config
