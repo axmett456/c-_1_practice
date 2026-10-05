@@ -1,0 +1,11 @@
+C:\Users\Ahmed\Desktop\c#_3\Test_score_avg\Test_score_avg\bin\Debug\Test_score_avg.exe.config
+C:\Users\Ahmed\Desktop\c#_3\Test_score_avg\Test_score_avg\bin\Debug\Test_score_avg.exe
+C:\Users\Ahmed\Desktop\c#_3\Test_score_avg\Test_score_avg\bin\Debug\Test_score_avg.pdb
+C:\Users\Ahmed\Desktop\c#_3\Test_score_avg\Test_score_avg\obj\Debug\Test_score_avg.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Desktop\c#_3\Test_score_avg\Test_score_avg\obj\Debug\Test_score_avg.Form1.resources
+C:\Users\Ahmed\Desktop\c#_3\Test_score_avg\Test_score_avg\obj\Debug\Test_score_avg.Properties.Resources.resources
+C:\Users\Ahmed\Desktop\c#_3\Test_score_avg\Test_score_avg\obj\Debug\Test_score_avg.csproj.GenerateResource.cache
+C:\Users\Ahmed\Desktop\c#_3\Test_score_avg\Test_score_avg\obj\Debug\Test_score_avg.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\c#_3\Test_score_avg\Test_score_avg\obj\Debug\Test_score_avg.exe
+C:\Users\Ahmed\Desktop\c#_3\Test_score_avg\Test_score_avg\obj\Debug\Test_score_avg.pdb
+C:\Users\Ahmed\Desktop\c#_3\Test_score_avg\Test_score_avg\obj\Debug\Test_score_avg.exe.config

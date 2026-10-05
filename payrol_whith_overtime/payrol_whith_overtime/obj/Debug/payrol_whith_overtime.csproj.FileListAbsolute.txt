@@ -1,0 +1,10 @@
+C:\Users\Ahmed\Desktop\c#_3\payrol_whith_overtime\payrol_whith_overtime\bin\Debug\payrol_whith_overtime.exe.config
+C:\Users\Ahmed\Desktop\c#_3\payrol_whith_overtime\payrol_whith_overtime\bin\Debug\payrol_whith_overtime.exe
+C:\Users\Ahmed\Desktop\c#_3\payrol_whith_overtime\payrol_whith_overtime\bin\Debug\payrol_whith_overtime.pdb
+C:\Users\Ahmed\Desktop\c#_3\payrol_whith_overtime\payrol_whith_overtime\obj\Debug\payrol_whith_overtime.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Desktop\c#_3\payrol_whith_overtime\payrol_whith_overtime\obj\Debug\payrol_whith_overtime.Form1.resources
+C:\Users\Ahmed\Desktop\c#_3\payrol_whith_overtime\payrol_whith_overtime\obj\Debug\payrol_whith_overtime.Properties.Resources.resources
+C:\Users\Ahmed\Desktop\c#_3\payrol_whith_overtime\payrol_whith_overtime\obj\Debug\payrol_whith_overtime.csproj.GenerateResource.cache
+C:\Users\Ahmed\Desktop\c#_3\payrol_whith_overtime\payrol_whith_overtime\obj\Debug\payrol_whith_overtime.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\c#_3\payrol_whith_overtime\payrol_whith_overtime\obj\Debug\payrol_whith_overtime.exe
+C:\Users\Ahmed\Desktop\c#_3\payrol_whith_overtime\payrol_whith_overtime\obj\Debug\payrol_whith_overtime.pdb
