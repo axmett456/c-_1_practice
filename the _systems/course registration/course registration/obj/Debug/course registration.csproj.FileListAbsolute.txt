@@ -1,0 +1,10 @@
+C:\Users\Ahmed\Desktop\sandal\course registration\course registration\obj\Debug\course registration.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Desktop\sandal\course registration\course registration\obj\Debug\course_registration.Form1.resources
+C:\Users\Ahmed\Desktop\sandal\course registration\course registration\obj\Debug\course_registration.Properties.Resources.resources
+C:\Users\Ahmed\Desktop\sandal\course registration\course registration\obj\Debug\course registration.csproj.GenerateResource.cache
+C:\Users\Ahmed\Desktop\sandal\course registration\course registration\obj\Debug\course registration.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\sandal\course registration\course registration\bin\Debug\course registration.exe.config
+C:\Users\Ahmed\Desktop\sandal\course registration\course registration\bin\Debug\course registration.exe
+C:\Users\Ahmed\Desktop\sandal\course registration\course registration\bin\Debug\course registration.pdb
+C:\Users\Ahmed\Desktop\sandal\course registration\course registration\obj\Debug\course registration.exe
+C:\Users\Ahmed\Desktop\sandal\course registration\course registration\obj\Debug\course registration.pdb
