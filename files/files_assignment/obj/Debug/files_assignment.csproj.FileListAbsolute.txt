@@ -1,0 +1,11 @@
+C:\Users\Ahmed\Desktop\files_assignment\files_assignment\files_assignment\obj\Debug\files_assignment.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Desktop\files_assignment\files_assignment\files_assignment\obj\Debug\files_assignment.Form1.resources
+C:\Users\Ahmed\Desktop\files_assignment\files_assignment\files_assignment\obj\Debug\files_assignment.Properties.Resources.resources
+C:\Users\Ahmed\Desktop\files_assignment\files_assignment\files_assignment\obj\Debug\files_assignment.csproj.GenerateResource.cache
+C:\Users\Ahmed\Desktop\files_assignment\files_assignment\files_assignment\obj\Debug\files_assignment.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\files_assignment\files_assignment\files_assignment\bin\Debug\files_assignment.exe.config
+C:\Users\Ahmed\Desktop\files_assignment\files_assignment\files_assignment\bin\Debug\files_assignment.exe
+C:\Users\Ahmed\Desktop\files_assignment\files_assignment\files_assignment\bin\Debug\files_assignment.pdb
+C:\Users\Ahmed\Desktop\files_assignment\files_assignment\files_assignment\obj\Debug\files_assignment.exe
+C:\Users\Ahmed\Desktop\files_assignment\files_assignment\files_assignment\obj\Debug\files_assignment.pdb
+C:\Users\Ahmed\Desktop\files_assignment\files_assignment\files_assignment\obj\Debug\files_assignment.exe.config
