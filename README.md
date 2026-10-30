@@ -1,45 +1,100 @@
-# C-sharb-practice
+C# Programming I
+Course Information
+Item	Details
+Course Title	C# Programming I
+Department	Computer Application
+Faculty	Computer & Information Technology
+University	Jamhuriya University of Science & Technology
+Academic Year	2026
+Semester	IV
+Prerequisite	Introduction Programming
+Course Objectives
+By the end of this course, students should be able to:
 
-Repository-gan waxaa ku jira hawlaha iyo casharrada luqadda C# ee Windows Forms.
+Understand the fundamentals of C# programming.
+Apply programming logic and problem-solving techniques.
+Understand event-driven programming.
+Develop graphical user interface applications.
+Work with methods, arrays, lists, and files.
+Connect C# applications with databases.
+Develop desktop applications.
+Course Content
+Week	Topic	Chapter
+Week 1	Introduction to Visual C#	Chapter 1
+Week 2	Processing Data	Chapter 2
+Week 3	Making Decisions	Chapter 3
+Weeks 4–5	Loops, Files, and Random Numbers	Chapter 4
+Weeks 6–7	Modularizing Your Code with Methods	Chapter 5
+Weeks 8–9	Arrays and Lists	Chapter 6
+Weeks 10–11	ADO.NET	Chapter 7
+Week 12	Sample Project	
+Weeks 13–14	Build Desktop Application	Chapter 8
+Learning Outcomes
+After completing the course, students should be able to:
 
----
+Understand Windows and event-driven programming.
+Develop GUI applications.
+Apply programming logic when solving problems.
+Use C# programming structures correctly.
+Use methods to organize programs.
+Work with arrays and lists.
+Connect applications to databases using ADO.NET.
+Develop small- to medium-sized Windows applications.
+Course Materials
+Lectures
+Lecture 01 - Introduction to Visual C#
+Lecture 02 - Processing Data
+Lecture 03 - Making Decisions
+Lecture 04 - Loops
+Lecture 05 - Files and Random Numbers
+Lecture 06 - Methods
+Lecture 07 - Arrays and Lists
+Lecture 08 - ADO.NET
+Lecture 09 - Desktop Application Development
+Assessment
+Assessment	Weight
+Midterm Exam	30%
+Labs and Home Assignments	15%
+Final Exam	30%
+Labs and Home Assignments	10%
+Project	15%
+Total	100%
+Course Project
+Students will develop a desktop application at the end of the semester. The project should demonstrate concepts learned during the course, including:
 
-## - Week1
-* **1. Screenshot folder:** Waxaa ku jira sawirrada screen-ka ah ee la xiriira Chapter 1.
-* **2. README:** 
-  # Introduction to Visual C# & GUI Basics
+User interface design
+Variables and data types
+Decision structures
+Loops
+Methods
+Arrays or lists
+Database connectivity
+ADO.NET
+Desktop application development
+Software Requirements
+Visual Studio
+C#
+.NET
+Windows Forms
+Database Management System
+Textbook
+Starting Out With Visual C#
 
-  * **Objects & Controls:** Fahamka form objects, labels, textboxes, iyo buttons kuwaas oo kor u qaada shaqada barnaamijka .
-  * **Visual Studio IDE:** Barashada daaqadaha muhiimka ah sida *Designer Window*, *Solution Explorer*, *Properties Window*, iyo *Toolbox* 
-  * **C# Code Structure:** Sida koodhka loo abaabulo oo ka kooban *Namespaces*, *Classes*, iyo *Methods* .
+Author: Tony Gaddis
+Publisher: Pearson
+Edition: Sixth Edition
+Year: 2023
+Reference Book
+Starting Out With Visual C#
 
-  * **Event-Driven Programming:** Sida barnaamijku ugu sugo falalka user-ka iyo isticmaalka `MessageBox.Show()` .
-  * **Syntax Errors:** Sida loo aqoonsado loona saxo khaladaadka higgaadda ee leh xariijimaha jajaban .
-
----
-
-## - Week2
-
-* **1. Screenshot folder:** Waxaa ku jira sawirrada screen-ka ah ee la xiriira Chapter 2 (Sida String Concatenation, Test Average, iyo Try-Catch).
-* **2. README:** 
-
-  # Processing Data, Variables & Error Handling
-  * **Variables & Data Types:** Abuurista iyo adeegsiga primitive data types sida `string`, `int`, `double`, iyo `decimal` .
-  * **String Concatenation:** Sida qoraallada ama erayada la isugu xiro iyadoo la adeegsanayo astaanta `+` .
-
-  * **Input/Output & Parsing:** Akhrinta xogta textboxes-ka iyo u beddelidda lambaro iyadoo la adeegsanayo `int.Parse()`, `double.Parse()`, iyo `decimal.Parse()` .
-  * **Mathematical Operations & Casting:** Samaynta xisaabaadka, integer division, iyo explicit type conversion .
-
-  * **Number Formatting:** Habaynta qaabka ay lambaradu u soo baxayaan iyadoo la adeegsanayo `.ToString("n1")` .
-
-  * **Exception Handling (`try-catch`):** Qabashada khaladaadka (runtime errors) si uusan barnaamijku u xirmanin marka user-ku galiyo xog aan sax ahayn .
-
----
-
-## - README (General Explain Subjects)
-# Visual C# Programming Course - General Overview
-
-Repository-gan waxaa loo sameeyay in lagu tababaro loona hirgeliyo barnaamijyada Windows Forms iyadoo la adeegsanayo Visual Studio iyo C#. Waxaa loo qaybiyay laba qaybood oo kala ah:
-1. **Week 1:** Waxay diiradda saaraysaa aasaaska GUI-ga, daaqadaha Visual Studio, iyo curinta barnaamijyada hordhaca ah .
-
-2. **Week 2:** Waxay qotominaysaa farsamaynta xogta (data processing), isticmaalka variables-ka, xisaabaadka, iyo maareynta khaladaadka barnaamijka (`try-catch`) .
+Authors: Tony Gaddis and Kip Irvine
+Publisher: Pearson
+Edition: Fourth Edition
+Year: 2017
+Teaching and Learning Methods
+Lectures
+Laboratory sessions
+Practical exercises
+Assignments
+Individual practice
+Project-based learning
