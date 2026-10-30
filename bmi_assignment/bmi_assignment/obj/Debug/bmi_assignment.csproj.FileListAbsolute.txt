@@ -1,0 +1,11 @@
+C:\Users\Ahmed\Desktop\HOTEL\bmi_assignment\bmi_assignment\bin\Debug\bmi_assignment.exe.config
+C:\Users\Ahmed\Desktop\HOTEL\bmi_assignment\bmi_assignment\bin\Debug\bmi_assignment.exe
+C:\Users\Ahmed\Desktop\HOTEL\bmi_assignment\bmi_assignment\bin\Debug\bmi_assignment.pdb
+C:\Users\Ahmed\Desktop\HOTEL\bmi_assignment\bmi_assignment\obj\Debug\bmi_assignment.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Desktop\HOTEL\bmi_assignment\bmi_assignment\obj\Debug\bmi_assignment.Form1.resources
+C:\Users\Ahmed\Desktop\HOTEL\bmi_assignment\bmi_assignment\obj\Debug\bmi_assignment.Properties.Resources.resources
+C:\Users\Ahmed\Desktop\HOTEL\bmi_assignment\bmi_assignment\obj\Debug\bmi_assignment.csproj.GenerateResource.cache
+C:\Users\Ahmed\Desktop\HOTEL\bmi_assignment\bmi_assignment\obj\Debug\bmi_assignment.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\HOTEL\bmi_assignment\bmi_assignment\obj\Debug\bmi_assignment.exe
+C:\Users\Ahmed\Desktop\HOTEL\bmi_assignment\bmi_assignment\obj\Debug\bmi_assignment.pdb
+C:\Users\Ahmed\Desktop\HOTEL\bmi_assignment\bmi_assignment\obj\Debug\bmi_assignment.exe.config
