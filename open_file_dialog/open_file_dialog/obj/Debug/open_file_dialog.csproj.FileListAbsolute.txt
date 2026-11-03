@@ -1,0 +1,11 @@
+C:\Users\Ahmed\Music\open_file_dialog\open_file_dialog\obj\Debug\open_file_dialog.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Music\open_file_dialog\open_file_dialog\obj\Debug\open_file_dialog.Form1.resources
+C:\Users\Ahmed\Music\open_file_dialog\open_file_dialog\obj\Debug\open_file_dialog.Properties.Resources.resources
+C:\Users\Ahmed\Music\open_file_dialog\open_file_dialog\obj\Debug\open_file_dialog.csproj.GenerateResource.cache
+C:\Users\Ahmed\Music\open_file_dialog\open_file_dialog\obj\Debug\open_file_dialog.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Music\open_file_dialog\open_file_dialog\bin\Debug\open_file_dialog.exe.config
+C:\Users\Ahmed\Music\open_file_dialog\open_file_dialog\bin\Debug\open_file_dialog.exe
+C:\Users\Ahmed\Music\open_file_dialog\open_file_dialog\bin\Debug\open_file_dialog.pdb
+C:\Users\Ahmed\Music\open_file_dialog\open_file_dialog\obj\Debug\open_file_dialog.exe
+C:\Users\Ahmed\Music\open_file_dialog\open_file_dialog\obj\Debug\open_file_dialog.pdb
+C:\Users\Ahmed\Music\open_file_dialog\open_file_dialog\obj\Debug\open_file_dialog.exe.config
