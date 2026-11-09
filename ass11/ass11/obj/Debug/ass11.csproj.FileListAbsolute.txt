@@ -1,0 +1,9 @@
+C:\Users\Ahmed\Music\ass11\ass11\bin\Debug\ass11.exe.config
+C:\Users\Ahmed\Music\ass11\ass11\bin\Debug\ass11.exe
+C:\Users\Ahmed\Music\ass11\ass11\bin\Debug\ass11.pdb
+C:\Users\Ahmed\Music\ass11\ass11\obj\Debug\ass11.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Music\ass11\ass11\obj\Debug\ass11.Properties.Resources.resources
+C:\Users\Ahmed\Music\ass11\ass11\obj\Debug\ass11.csproj.GenerateResource.cache
+C:\Users\Ahmed\Music\ass11\ass11\obj\Debug\ass11.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Music\ass11\ass11\obj\Debug\ass11.exe
+C:\Users\Ahmed\Music\ass11\ass11\obj\Debug\ass11.pdb
